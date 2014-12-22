@@ -32,9 +32,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A most strange and wonderfull herring taken on the 26. day of Nouember 1597, neere vnto Drenton some
+
 #####Body#####
-A most strange and wonderfull herring taken on the 26. day of Nouember 1597, neere vnto Drenton some
+
+1. A moſt ſtrange &
+wonderfull Herring taken on the
+26. day of Nouember 1597. neere vnto Drenton,
+ſometime the old and chiefe Cittie of the
+kingdome of Norway, hauing on the one
+ſide the picture of two armed men
+fighting, & on the other moſt
+ſtrange characters: as in
+the picture is
+expreſſed.
+Repent for the kingdome of God is at hand.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
